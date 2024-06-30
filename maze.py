@@ -1,9 +1,6 @@
 from cell import Cell
 import random
 import time
-import sys
-
-sys.setrecursionlimit(10000)
 
 
 class Maze:
